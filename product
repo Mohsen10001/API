@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Apple",
+    "price": 250,
+    "unit": "KG",
+    "rating": 4,
+    "image": "https://media.istockphoto.com/id/184276818/photo/red-apple.jpg?s=612x612&w=0&k=20&c=NvO-bLsG0DJ_7Ii8SSVoKLurzjmV0Qi4eGfn6nW3l5w="
+  },
+  {
+    "name": "Banana",
+    "price": 120,
+    "unit": "KG",
+    "rating": 5,
+    "image": "https://t4.ftcdn.net/jpg/12/21/63/59/360_F_1221635955_BrOBAdbn0XYjiSe0gBM9zIUFz0k7QfPo.jpg"
+  },
+  {
+    "name": "Mango",
+    "price": 350,
+    "unit": "KG",
+    "rating": 5,
+    "image": "https://i.pinimg.com/564x/c4/41/60/c44160336851753abc03b27896af17b4.jpg"
+  },
+  {
+    "name": "Orange",
+    "price": 280,
+    "unit": "KG",
+    "rating": 4,
+    "image": "https://media.istockphoto.com/id/185284489/photo/orange.jpg?s=612x612&w=0&k=20&c=m4EXknC74i2aYWCbjxbzZ6EtRaJkdSJNtekh4m1PspE="
+  },
+  {
+    "name": "Grapes",
+    "price": 350,
+    "unit": "KG",
+    "rating": 3,
+    "image": "https://img.freepik.com/free-psd/grape-fruits-isolated-transparent-background_191095-14707.jpg"
+  },
+  {
+    "name": "Kiwi",
+    "price": 350,
+    "unit": "KG",
+    "rating": 4,
+    "image": "https://media.istockphoto.com/id/92185664/photo/kiwi-fruit.jpg?s=612x612&w=0&k=20&c=Ynu9IRac-ZPyIBMtqo3RIlqDJq53RPE3j3n7xMA3-UM="
+  },
+  {
+    "name": "Pineapple",
+    "price": 50,
+    "unit": "piece",
+    "rating": 3,
+    "image": "https://images.pexels.com/photos/137119/pexels-photo-137119.jpeg"
+  },
+  {
+    "name": "Strawberry",
+    "price": 350,
+    "unit": "KG",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1588165171080-c89acfa5ee83"
+  },
+  {
+    "name": "Watermelon",
+    "price": 200,
+    "unit": "piece",
+    "rating": 4,
+    "image": "https://images.pexels.com/photos/1313267/pexels-photo-1313267.jpeg"
+  },
+  {
+    "name": "Blueberry",
+    "price": 500,
+    "unit": "KG",
+    "rating": 5,
+    "image": "https://m.media-amazon.com/images/I/719KWUpW3iL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "name": "Papaya",
+    "price": 120,
+    "unit": "piece",
+    "rating": 4,
+    "image": "https://healthybuddha.in/image/cache/catalog/PapayaSm-500x515.jpeg"
+  },
+  {
+    "name": "Pomegranate",
+    "price": 400,
+    "unit": "KG",
+    "rating": 3,
+    "image": "https://thumbs.dreamstime.com/b/juicy-pomegranate-its-half-leaves-16537522.jpg"
+  },
+  {
+    "name": "Pear",
+    "price": 300,
+    "unit": "KG",
+    "rating": 4,
+    "image": "https://thumbs.dreamstime.com/b/pear-7682120.jpg"
+  },
+  {
+    "name": "Cherry",
+    "price": 420,
+    "unit": "KG",
+    "rating": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj47u18ggyKBTKtxMpvjKOkRB_kBctVSGOYA&s"
+  },
+  {
+    "name": "Jackfruit",
+    "price": 150,
+    "unit": "piece",
+    "rating": 3,
+    "image": "https://png.pngtree.com/png-clipart/20210704/original/pngtree-jackfruit-fresh-and-delicious-transparent-background-png-image_6479937.jpg"
+  },
+  {
+    "name": "Dragon Fruit",
+    "price": 320,
+    "unit": "KG",
+    "rating": 4,
+    "image": "https://i.pinimg.com/474x/51/6c/88/516c883bf46dd5c696bcb2e456efe23a.jpg"
+  }
+]
